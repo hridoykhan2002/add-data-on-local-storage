@@ -1,0 +1,27 @@
+/* fontsize */
+
+
+#selectFontSize{
+    width: 200px;
+    padding: 5px;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+/* bgcolor */
+#selectBgColor{
+    width: 200px;
+    padding: 5px;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+/* reset button */
+#resetButton{
+    margin-left: 20px;
+    width: 200px;
+    padding: 5px;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
